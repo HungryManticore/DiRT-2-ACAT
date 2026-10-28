@@ -48,3 +48,7 @@ sh build.sh
 ```
 
 The output goes to `build/D2ACAT.asi`.
+
+## AI disclosure
+
+The plugin was made using Claude.
