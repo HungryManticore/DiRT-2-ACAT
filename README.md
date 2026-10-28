@@ -1,6 +1,6 @@
-# DiRT-2-ACAT
+# DiRT 2 ACAT
 
-**D2ACAT (DiRT 2: Any Car, Any Track)** is a mod that lets you race any car on any track in Free Race mode.
+**DiRT 2: Any Car, Any Track** is a mod that lets you race any car on any track in Free Race mode.
 
 In the stock game, Free Race only offers the vehicle classes that belong to the selected mode (rally cars for Rally, trucks and buggies for Landrush, and so on). LAN mode has no such limit; it just warns *"This track/car combo could be carnage!"*. D2ACAT brings that freedom to Free Race. Every class you've unlocked shows up in every mode, on every track.
 
